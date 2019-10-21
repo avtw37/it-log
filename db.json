@@ -20,6 +20,27 @@
       "tech": "Eric Draven",
       "datae": "2019-10-07T15:51:39.272Z",
       "id": 3
+    },
+    {
+      "message": "replaced old wifi card with new wifi card at station 12",
+      "attention": false,
+      "tech": "Vincent Valentine",
+      "datae": "2019-10-21T16:53:48.384Z",
+      "id": 4
+    },
+    {
+      "message": "Station 07 needs a new motherboard replacement.",
+      "attention": true,
+      "tech": "Eric Draven",
+      "datae": "2019-10-21T16:54:31.994Z",
+      "id": 5
+    },
+    {
+      "message": "New set up build at station 13",
+      "attention": false,
+      "tech": "Marcus Aurelius",
+      "datae": "2019-10-21T16:56:12.808Z",
+      "id": 6
     }
   ],
   "techs": [
